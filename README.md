@@ -1,1 +1,2 @@
 # eight-puzzle
+The goal of this project was to implement several search algorithms to solve the 8 puzzle problem and to compare their performance. First, breadth-first, depth-first, Best-First, and A* search were implemented using the General Search algorithm. Then, Hamming distance, Manhattan distance, Permutation Inversion and an inadmissible heuristic were implemented for the 8 puzzle problem. Lastly, the path lengths of the outputs were used to compare the search solutions' optimality.
